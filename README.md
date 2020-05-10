@@ -1,3 +1,12 @@
+# A preconfigured version of QWC2 
+
+Experimenting with qwc-docker to get a ready-to-run 
+online GIS that displays some custom maps. 
+
+-----
+
+Original README: 
+
 Docker containers for QWC Services
 ==================================
 
